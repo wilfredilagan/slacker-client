@@ -55,8 +55,8 @@ function createArticle( $message ) {
         event.preventDefault( );
         let message = {
          "user": {
-         "name": "Ramses",
-         "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=25"
+         "name": "Wilfred",
+         "image": "https://media.licdn.com/dms/image/C4D03AQFxgZSnNEgE8Q/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=fysKmYKx9rHjaHoFjr2H_ppTk9HofnL7xLsyb8guXi0"
          },
          "message": {
          "text": event.target.value,
