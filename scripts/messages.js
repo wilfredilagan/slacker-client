@@ -56,7 +56,7 @@ function createArticle( $message ) {
         let message = {
          "user": {
          "name": "Wilfred",
-         "image": "hhttps://yt3.ggpht.com/a-/AAuE7mDs2uCCl7awDalfM1olUms4LRkG0U0cNYkiDQ=s900-mo-c-c0xffffffff-rj-k-no"
+         "image": "https://yt3.ggpht.com/a-/AAuE7mDs2uCCl7awDalfM1olUms4LRkG0U0cNYkiDQ=s900-mo-c-c0xffffffff-rj-k-no"
          },
          "message": {
          "text": event.target.value,
