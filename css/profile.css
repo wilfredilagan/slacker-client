@@ -12,6 +12,7 @@ nav{
     background-color: #1c1b43;
     float: left;
     color: white;
+    margin-top: -1rem;
 }
 
 nav span#app-name {
@@ -58,36 +59,47 @@ aside img{
     border-radius: 50%;
 }
 main{
+    color: #501E9A;
     display:inline-block;
     width: 64%;
     float:left;
 }
 h1{
     font-size: 3rem;
+    margin-bottom: -1rem;
+    margin-top: 2rem;
 }
 h2{
     display:inline-block;
     font-size: 1.5rem;
     margin-right: 8rem;
+    padding-left: 20px;
 }
 h3{
     display:inline-block;
     font-size: 1rem;
 }
 p{
+    color: grey;
     line-height: 2rem;
     font-size: 1.2rem;
 }
 main > section{
-    border-top: 2px #000000 solid;
+    border-top: 2px #501E9A solid;
     padding-top: 2rem; 
 }
 article{
     font-size: 1.2rem;
     line-height: 3rem;
 }
+span{
+    padding-left: 25px;
+}
 span.label {
     font-weight: 600;
     min-width: 8rem;
     display: inline-block;
+}
+.value{
+    color: grey;
 }

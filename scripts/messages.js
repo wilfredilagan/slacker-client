@@ -56,7 +56,7 @@ function createArticle( $message ) {
         let message = {
          "user": {
          "name": "Wilfred",
-         "image": "https://yt3.ggpht.com/a-/AAuE7mDs2uCCl7awDalfM1olUms4LRkG0U0cNYkiDQ=s900-mo-c-c0xffffffff-rj-k-no"
+         "image": "https://media.licdn.com/dms/image/C4D03AQFxgZSnNEgE8Q/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=fysKmYKx9rHjaHoFjr2H_ppTk9HofnL7xLsyb8guXi0"
          },
          "message": {
          "text": event.target.value,
